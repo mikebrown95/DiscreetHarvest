@@ -7,7 +7,7 @@ Methods:
 
 2.) Federated Learning
 
-3.) Homomorphic Encyrption 
+3.) Homomorphic Encryption
 
 4.) Hybrid (Combination of above) 
 
