@@ -3,8 +3,11 @@ Smart Farming Privacy Preserving Machine Learning
 
 Methods: 
 1.) Differential Privacy 
+
 2.) Federated Learning
+
 3.) Homomorphic Encyrption 
+
 4.) Hybrid (Combination of above) 
 
 
