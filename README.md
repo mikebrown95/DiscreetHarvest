@@ -9,15 +9,6 @@ Methods:
 
 3.) Homomorphic Encryption
 
-4.) Hybrid (Combination of above) 
-
-
-Models: 
-
-1.) Linear Regression model to predict wheat yield based on IoT sensor data
-
-2.) CNN classifier to predict healthy or diseased bean crops (Healthy, Angular Leaf Spot and Bean Rust.)
-
 
 Data: 
 
@@ -27,4 +18,3 @@ Data:
 
 
 
-In process... 
